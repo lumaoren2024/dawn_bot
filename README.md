@@ -1,5 +1,5 @@
 # 视频教程：
-https://youtu.be/jvVKaZdReKE
+[https://youtu.be/jvVKaZdReKE](https://youtu.be/pzXV3jpaV40)
 
 # 文字教程
 
