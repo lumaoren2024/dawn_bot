@@ -1,10 +1,9 @@
 # 视频教程：
-[https://youtu.be/jvVKaZdReKE](https://youtu.be/pzXV3jpaV40)
+https://youtu.be/pzXV3jpaV40
 
 # 文字教程
 
 # 这个是获取Dawn token和用户id的教程
-：https://www.youtube.com/watch?v=muROIgSLbkk
 
 ## 1、安装dawn插件, 在chrome插件市场找到DAWN Validator Chrome，下载安装。
 
