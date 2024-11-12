@@ -1,0 +1,19 @@
+[
+    {
+        "username": "1111@gmail.com",
+        "appid": "1111",
+        "token": "11111",
+        "proxy": {
+            "http": "http://192.168.2.7:7890",
+            "https": "http://192.168.2.7:7890"
+        }
+    },
+    {
+        "username": "222",
+        "appid": "2222",
+        "token": "22222",
+        "proxy": {
+            "socks5": "socks5://192.168.2.7:7062"
+        }
+    }
+]
